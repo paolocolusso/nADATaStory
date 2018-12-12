@@ -17,7 +17,7 @@ baseurl: ""
 title: IRA Tweets
 
 # Short description of your site
-description: This is where I will tell my friends way too much about me and about IRA tweets
+description: ADA 2018 - Final Project
 
 # --- Navigation bar options --- #
 
@@ -32,7 +32,7 @@ navbar-links:
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/img/avatar-icon.png"
+avatar: "/img/tweet.png"
 
 # If you want to have an image logo in the top-left corner instead of the title text,
 # then specify the following parameter
