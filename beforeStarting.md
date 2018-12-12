@@ -16,6 +16,7 @@ The political equilibrium has shifted towards less traditional parties following
 
 3. The **Five-Star Movement** (M5S) is a populist party, which aims at tackling social inequalities and fighting political privileges. Founder of the party was the comedian Beppe Grillo, in the picture below. ![](../img/grillo.png){: .align-center}
 
+### Where does Russia come in?
 Both the League and the M5S hold eurosceptic positions, blaming the crisis on the common currency, the big financial institutions and the little flexibility available within the agreements of the European Union.
 
 As many political commentators have stressed, a government formed by the M5S and the League is a threat to the stability of the Eurozone, and this is the reason why Russia, whose political ambitions are in conflict with those of the EU, might have all the interests to support it.
