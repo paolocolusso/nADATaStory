@@ -17,13 +17,13 @@ baseurl: ""
 title: IRA Tweets
 
 # Short description of your site
-description: Try a description
+description:
 
 # --- Navigation bar options --- #
 
 # List of links in the navigation bar
 navbar-links:
-  About the author: "abouttheauthor"
+  About the author: "About me"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
