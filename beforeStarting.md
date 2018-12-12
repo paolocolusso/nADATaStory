@@ -10,11 +10,9 @@ Italy is nowadays seen as one of the weakest economies of the Eurozone, with hig
 
 The political equilibrium has shifted towards less traditional parties following the economic crisis and the fall of Silvio Berlusconi, who has been the most stable political figure since 1994. The main parties at the moment are:
 
-1. The **Democratic Party** (PD), a centre-left party which lacks a strrong leadership after Matteo Renzi lost popularity following a defeat in the 2006 constitutional referendum. Matteo Renzi has been secretary of the party from 2014 to 2016 and Prime Minister during the same years. 
+1. The **Democratic Party** (PD), a centre-left party which lacks a strrong leadership after Matteo Renzi lost popularity following a defeat in the 2006 constitutional referendum. Matteo Renzi (picture below) has been secretary of the party from 2014 to 2016 and Prime Minister during the same years.  ![](../img/renzi.png){: .align-center}
 
-![](../img/renzi.png){: .align-center}
-
-2. The **League**. Formerly known as the Northern League, a party supporting the independence of Northern Italy, the right-wing League set itself more national ambitions. It is a populist party, and currently the main party in the country, as well as the member of the coalition government together with M5S. Its key points are migration and the challenge of European rigidities in terms of budget limitations.
+2. The **League**. Formerly known as the Northern League, a party supporting the independence of Northern Italy, the right-wing League set itself more national ambitions. It is a populist party, and currently the main party in the country, as well as the member of the coalition government together with M5S. Its key points are migration and the challenge of European rigidities in terms of budget limitations. ![](../img/salvini.png){: .align-center}
 
 3. The **Five-Star Movement** (M5S) is a populist party, which aims at tackling social inequalities and fighting political privileges.
 
