@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Stay Safe Geneva!
-subtitle: An analysis of the accidents in Geneva
+title: Italians do it better - than trolls!
+subtitle: An analysis of the Italian tweets of the IRA dataset.
 use-site-title: true
 ---
 
 
-![](../img/Geneva panorama.jpg){: .align-center}
+![](../img/tweet_pile){: .align-center}
 
 Road safety has always been an important matter for public administration. In particular, traffic accidents have increased during last years in Switzerland ([1](http://lenews.ch/2017/06/23/swiss-traffic-worse-in-2016-especially-in-lausanne/)). Nowadays, a big amount of traffic data is generated in most of the European important cities. For instance, the Geneva region traffic accidents data is available.
 
