@@ -27,7 +27,7 @@ Nobody wants some external entity to impose a certain mindset, orient the politi
 
 > **... and why not let the data themselves show what this is all about?**
 
-The focus of this analysis is on the Italian tweets of IRA, which have not yet been a specific object of study. We want to see if and how the action of trolls adapts to the specific Italian situation: to do that, it might help to be familiar with some trends in the Italian socio-economic situation and political panorama. Explore the section [Before Starting](pages/beforeStarting) to obtain some key facts.
+The focus of this analysis is on the Italian tweets of IRA, which have not yet been a specific object of study. We want to see if and how the action of trolls adapts to the specific Italian situation: to do that, it might help to be familiar with some trends in the Italian socio-economic situation and political panorama. Explore the section [Before Starting](beforeStarting) to obtain some key facts.
 
 
 ## Structure:
