@@ -23,7 +23,7 @@ We will show you the **proportions** of this phenomenon, how the **timing** is c
 
 ### For the social good
 
-Nobody wants some external entity to impose a certain mindset, orient the political debate and pushing a particular point of view on delicate issues. Investigate the behaviour of Russian trolls means to foster informed and independent decisions, not spurred by heated online debates...
+Nobody wants some external entity to impose a certain mindset, orient the political debate and push a particular point of view on delicate issues. Investigate the behaviour of Russian trolls means to foster informed and independent decisions, not spurred by heated online debates...
 
 > **... and why not let the data themselves show what this is all about?**
 
