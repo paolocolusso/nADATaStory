@@ -24,7 +24,7 @@ description: ADA 2018 - Final Project
 # List of links in the navigation bar
 navbar-links:
   The setting: "beforeStarting"
-  Italian trolls\: a top view: "explore"
+  Exploration: "explore"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
