@@ -36,7 +36,7 @@ The focus of this analysis is on the Italian tweets of IRA, which have not yet b
 
 This website is structured in four sections:
 1. In [The setting](beforeStarting), we show some recent facts and figures about Italy.
-2. [Italian trolls: a top view](/explore) is developped to analyse some particular accident cases.
+2. [Exploration](/explore) is developped to analyse some particular accident cases.
 3. [The risk calculator](/pages/risk_calculator), a quick tool to compute the risk associated to roads in Geneva
 4. [Safety maps](/pages/safety_map) proof of concept of how we could apply the computed risk per road to directions applications (e.g. SBB/CFF or Google Maps)
 
