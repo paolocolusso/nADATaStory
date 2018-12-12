@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Exploration
-subtitle: Italian trolls: a top view.
+title: Italian trolls: a top view.
+subtitle: Exploring the dataset.
 use-site-title: true
 ---
 
