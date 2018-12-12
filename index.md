@@ -25,7 +25,7 @@ We will show you the **proportions** of this phenomenon, how the **timing** is c
 
 Nobody wants some external entity to impose a certain mindset, orient the political debate and pushing a particular point of view on delicate issues. Investigate the behaviour of Russian trolls means to foster informed and independent decisions, not spurred by heated online debates...
 
-> and why not let the data themselves show what this is all about?
+> **... and why not let the data themselves show what this is all about?**
 
 The focus of this analysis is on the Italian tweets of IRA, which have not yet been a specific object of study. We want to see if and how the action of trolls adapts to the specific Italian situation: to do that, it might help to be familiar with some trends in the Italian socio-economic situation and political panorama. Explore the section [Before Starting](pages/beforeStarting) to obtain some key facts.
 
