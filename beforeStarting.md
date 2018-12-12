@@ -1,6 +1,6 @@
 ---
 layout: page
-title: About us
+title: Before staring
 subtitle: A story of Italy, Canada and China
 ---
 
