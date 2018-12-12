@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle: How Trolls are messing up with Italy
+title: About us
+subtitle: A story of Italy, Canada and China
 ---
 
 The phenomenon of Russian IRA trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general.
