@@ -31,12 +31,16 @@ Nobody wants some external entity to impose a certain mindset, orient the politi
 
 The focus of this analysis is on the Italian tweets of IRA, which have not yet been a specific object of study. We want to see if and how the action of trolls adapts to the specific Italian situation: to do that, it might help to be familiar with some trends in the Italian socio-economic situation and political panorama. Explore the section [The Setting](beforeStarting) to obtain some key facts.
 
+### Our thesis
+
+We claim that it is possible to witness a strategy implemented by IRA to highlight the weaknesses of the Italian system and stimulate divisiveness within the society. We show that the trolls' interest is mainly political, their activity follows specific time trends and provides a particularly gloomy portrait of the current situation.
+
 
 ## Structure:
 
 This website is structured in four sections:
 1. In [The setting](beforeStarting), we show some recent facts and figures about Italy.
-2. [Exploration](/explore) is developped to analyse some particular accident cases.
+2. [Exploration](/explore) analyses general behaviours of trolls.
 3. [The risk calculator](/pages/risk_calculator), a quick tool to compute the risk associated to roads in Geneva
 4. [Safety maps](/pages/safety_map) proof of concept of how we could apply the computed risk per road to directions applications (e.g. SBB/CFF or Google Maps)
 
