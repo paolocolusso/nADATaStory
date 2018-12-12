@@ -1,10 +1,10 @@
 ---
 layout: page
 title: About me
-subtitle: Why you'd want to go on a date with me
+subtitle: How Trolls are messing up with Italy
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+The phenomenon of Russian IRA trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general.
 
 - I rock a great mustache
 - I'm extremely loyal to my family
