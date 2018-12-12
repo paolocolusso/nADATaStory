@@ -23,7 +23,7 @@ description: This is where I will tell my friends way too much about me and abou
 
 # List of links in the navigation bar
 navbar-links:
-  About the author: "aboutme"
+  About us: "aboutme"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
