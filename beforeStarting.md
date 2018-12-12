@@ -1,7 +1,7 @@
 ---
 layout: page
 title: The setting
-subtitle: A story of political fights
+subtitle: Italy, Europe.
 ---
 
 Italy is nowadays seen as one of the weakest economies of the Eurozone, with high levels of unemployment and growth rates which fail to keep up with those of other countries. Its politics is particularly unstable and the electoral system fails to give rise to lasting governments and stable majorities, so that elections are frequent and the number of prime ministers in the last two decades is unrivalled, 14 in the last 24 years.
