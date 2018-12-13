@@ -22,9 +22,29 @@ It looks like trolls try to cover all the spectrum of sizes and activity levels:
 
 ### Time Analysis
 
+Is there a peak of activity of trolls during significant moments of the past years? If trolls intend to influence our perception of politics and society, we would expect them to give relevance to disruptive events, crisis and elections and to be more active on these occasions.
+
+To get a visual intuition of this fact we plot the historical evolution of the number of tweets per day.
+
 ![](../img/time1.png){: .align-center}
 
+We observe a period of exceptional activity in the first months of 2017. These corresponded to months of political tension across Europe due to the presence of numerous terrorists' attacks: London, Stockholm, Paris, St Petersburg, Manchester were among the cities which witnessed these attacks. Of course Russian trolls would use the rise of Islamic terrorism as a sign of the difficulties of Europe and as a way to support the anti-immigration messages of populist parties.
+
+We now zoom in on the other months and look for further evidence of the divisive strategy of trolls.
+
 ![](../img/time2.png){: .align-center}
+
+We highlighted:
+
+1. migratory crisis;
+
+2. the Italian constitutional referendum, whose outcome was one of the main causes of the fall of the centre-left party;
+
+3. the build-up to the general elections.
+
+If, as we claim, Russian trolls aim at spurring political instability in Europe, it is natural that they should focus on disruptive events showing the weaknesses of our society. Also, they would be likely to touch upon themes that are key in the political agenda of populist parties (*Leaugue* and *Five-Star Movement*), making Europe more frail and threatening the stability of international relationships. They would naturally encourage political debate, creating divisiveness in the country.
+
+What we see is indeed that they are more active during periods coinciding with peaks of terrorism in Europe, migratory crisis and political events.
 
 
 ### Content analysis
