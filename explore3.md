@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploration
+title: The Dynamics
 subtitle: A top view of the Italian troll tweets.
 ---
 
