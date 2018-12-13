@@ -39,10 +39,10 @@ We claim that it is possible to witness a strategy implemented by IRA to highlig
 ## Structure:
 
 This website is structured in four sections:
-1. In [The setting](beforeStarting), we show some recent facts and figures about Italy.
-2. [The Dynamics](/explore3) analyses general behaviours of trolls,
-3. [The Words](/theTweets), where we take a closer look at the tweets' content,
-4. [Safety maps](/pages/safety_map) proof of concept of how we could apply the computed risk per road to directions applications (e.g. SBB/CFF or Google Maps)
+1. In [The setting](beforeStarting), we show some recent facts and figures about Italy, where the story takes place.
+2. [The Dynamics](/explore3) analyses the behaviour of trolls,
+3. [The Words](/theTweets), where we take a closer look at what the characters of our story say,
+4. [The characters](/theChars), where the protagonists introduce themselves.
 
 If you want further information about this project, do not hesitate to visit the [about page](/pages/about)
 
