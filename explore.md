@@ -5,10 +5,6 @@ subtitle: Italian trolls: a top view.
 use-site-title: true
 ---
 
+We take a closer look at the proportions of the phenomenon with respect to the Italian part of the IRA tweets.
 
-![](../img/tweet_pile.png){: .align-center} 
-
-
-The phenomenon of Russian IRA trolls has taken centre stage in the last months, casting a shadow on our understanding of the mechanisms which move social network discussions and debates in general.
-
-### What is IRA?
+![](../img/follow.png){: .align-center}
