@@ -40,8 +40,8 @@ We claim that it is possible to witness a strategy implemented by IRA to highlig
 
 This website is structured in four sections:
 1. In [The setting](beforeStarting), we show some recent facts and figures about Italy.
-2. [Exploration](/explore) analyses general behaviours of trolls.
-3. [The risk calculator](/pages/risk_calculator), a quick tool to compute the risk associated to roads in Geneva
+2. [Exploration](/explore) analyses general behaviours of trolls,
+3. [The Tweets](/theTweets), where we take a closer look at the tweets' content,
 4. [Safety maps](/pages/safety_map) proof of concept of how we could apply the computed risk per road to directions applications (e.g. SBB/CFF or Google Maps)
 
 If you want further information about this project, do not hesitate to visit the [about page](/pages/about)
