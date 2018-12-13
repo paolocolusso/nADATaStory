@@ -47,4 +47,4 @@ We highlighted:
 ### Trolls' favourite places
 We want to see if there are places trolls mention more often in their tweets. We thus check references to every Italian municipality and region and count the number of mentions per Italian region. In the following map results are normalized by the size of the regional polpulation.
 
-<iframe src="https://paolocolusso.github.io/mentions.html" width="100%" height="400px"></iframe>
+<iframe src="https://paolocolusso.github.io/img/mentions.html" width="100%" height="400px"></iframe>
