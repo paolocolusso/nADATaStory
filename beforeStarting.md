@@ -1,8 +1,11 @@
 ---
 layout: page
 title: The setting
-subtitle: Italy, Europe.
+subtitle: Italy, the EU and Russia.
 ---
+Before venturing into the story, let us recall some facts about Italy, which could help explain why this country could be a natural objective for IRA trolls. Assuming Russia's intention is to weaken the role of the EU to enhance its power, to foster instability in one of the EU's largest country means to trigger instability in the whole Union, and Italy might be one of the easiest one to deal with. Let's see why.
+
+## Why Italy?
 
 Italy is nowadays seen as one of the weakest economies of the Eurozone, with high levels of unemployment and growth rates which fail to keep up with those of other countries. Its politics is particularly unstable and the electoral system fails to give rise to lasting governments and stable majorities, so that elections are frequent and the number of prime ministers in the last two decades is unrivalled, 14 in the last 24 years.
 
