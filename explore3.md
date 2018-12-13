@@ -45,4 +45,4 @@ We highlighted:
 3. the build-up to the general elections.
 
 ### Trolls' favourite places
-We want to see if there are places trolls mention more often in their tweets. We thus check references to every Italian municipality and region and 
+We want to see if there are places trolls mention more often in their tweets. We thus check references to every Italian municipality and region and count the number of mentions per Italian region. In the following map results are normalized by the size of the regional polpulation.
