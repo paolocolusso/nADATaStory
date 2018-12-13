@@ -32,7 +32,7 @@ We observe a period of exceptional activity in the first months of 2017. These c
 
 We now zoom in on the other months and look for further evidence of the divisive strategy of trolls.
 
-![](../img/time2.png){: .align-center}{:height="50%" width="50%"}
+![](../img/time2.png){: .align-center}{:height="250%" width="250%"}
 
 We highlighted:
 
