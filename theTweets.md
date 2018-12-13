@@ -1,6 +1,6 @@
 ---
 layout: page
-title: The Tweets
+title: The Words
 subtitle: Looking into the 140 characters.
 ---
 
