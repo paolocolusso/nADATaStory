@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Exploration
+title: Explore
 subtitle: Italian trolls: a top view.
 ---
 We take a closer look at the proportions of the phenomenon with respect to the Italian part of the IRA tweets.
@@ -12,4 +12,4 @@ Although figures on this side has to be taken with caution, since we cannot rule
 
 and followers:
 
-![](../img/followers.png){: .align-center}
+![](../img/follower.png){: .align-center}
