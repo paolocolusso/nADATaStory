@@ -31,6 +31,8 @@ It is hardly surprising that Russia would try to provide a negative picture of o
 ### Words often appearing together
 We now use data mining, and specifically association rules, to confirm some intuitions.
 
+In Italian politics there is a big difference from the traditional Democratic Party, who is associated to its internal fights and scandals, and the populist Five-Star Movement, who often goes together with references to the official blog of the party.
+
 
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
@@ -40,12 +42,17 @@ We now use data mining, and specifically association rules, to confirm some intu
 | grillo       | blog           | git diff      |
 
 
+International politics is again dominated by the big leaders: interestingly, Trump is associated with Putin. Notice also that there is a frequent association between Macron and Lepen, whose political story somewhat mirrors that of Renzi and Salvini.
+
+
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
 | lepen        | macron         | git diff      |
 | putin        | trump          | git diff      |
 | syria        | trump          | git diff      |
 
+
+As we were noticing, trolls never cease to stress instability: Stockholm, for instance, gets matched with the truck which caused a massacre in the 2017 terror attack.
 
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
