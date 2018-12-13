@@ -23,9 +23,9 @@ description: ADA 2018 - Final Project
 
 # List of links in the navigation bar
 navbar-links:
-  The setting: "beforeStarting"
-  Exploration: "explore3"
-  The Tweets: "theTweets"
+  The Setting: "beforeStarting"
+  The Dynamics: "explore3"
+  The Words: "theTweets"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
