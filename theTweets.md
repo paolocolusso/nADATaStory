@@ -34,7 +34,7 @@ We now use data mining, and specifically association rules, to confirm some intu
 
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
-| primarie     | pd             | git status    |
+| elections    | pd             | git status    |
 | consip       | renzi          | git diff      |
 | grillo       | ms             | git diff      |
 | grillo       | blog           | git diff      |
@@ -44,13 +44,13 @@ We now use data mining, and specifically association rules, to confirm some intu
 | :---         |     :---:      |          ---: |
 | lepen        | macron         | git diff      |
 | putin        | trump          | git diff      |
-| siria        | trump          | git diff      |
+| syria        | trump          | git diff      |
 
 
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
-| londra       | westminster    | git diff      |
-| stoccolma    | truck          | git diff      |
+| london       | westminster    | git diff      |
+| stockholm    | truck          | git diff      |
 | at least     | deaths         | git diff      |
 | deaths       | injured        | git diff      |
 
