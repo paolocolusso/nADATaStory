@@ -26,4 +26,28 @@ Shifting to **international politics**, Trump is the big name. More generally, t
 
 Laslty, words as **fear**, **terror**, **risk**, **terrorism**, **massacre**, **attack** clearly want to stress a situation of instability.
 
-It is hardly surprising that Russia would try to provide a negative picture of our institutions: lack of faith in traditional parties and institutions has already lead towards increased success of populist parties all across Europe, making it weaker. All of this creates sympathy towards more authoritative figures, like Putin and Trump, who present themselves as strong in defending their country's interests. 
+It is hardly surprising that Russia would try to provide a negative picture of our institutions: lack of faith in traditional parties and institutions has already lead towards increased success of populist parties all across Europe, making it weaker. All of this creates sympathy towards more authoritative figures, like Putin and Trump, who present themselves as strong in defending their country's interests.
+
+### Words often appearing together
+We now use data mining, and specifically association rules, to confirm some intuitions.
+| Antecedent   | Consequent     | Right-aligned |
+| :---         |     :---:      |          ---: |
+| primarie     | pd             | git status    |
+| consip       | renzi          | git diff      |
+| grillo       | ms             | git diff      |
+| grillo       | blog           | git diff      |
+
+| Antecedent   | Consequent     | Right-aligned |
+| :---         |     :---:      |          ---: |
+| lepen        | macron         | git diff      |
+| putin        | trump          | git diff      |
+| siria        | trump          | git diff      |
+
+| Antecedent   | Consequent     | Right-aligned |
+| :---         |     :---:      |          ---: |
+| londra       | westminster    | git diff      |
+| stoccolma    | truck          | git diff      |
+| at least     | deaths         | git diff      |
+| deaths       | injured        | git diff      |
+
+
