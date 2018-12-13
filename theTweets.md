@@ -30,6 +30,8 @@ It is hardly surprising that Russia would try to provide a negative picture of o
 
 ### Words often appearing together
 We now use data mining, and specifically association rules, to confirm some intuitions.
+
+
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
 | primarie     | pd             | git status    |
@@ -37,11 +39,13 @@ We now use data mining, and specifically association rules, to confirm some intu
 | grillo       | ms             | git diff      |
 | grillo       | blog           | git diff      |
 
+
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
 | lepen        | macron         | git diff      |
 | putin        | trump          | git diff      |
 | siria        | trump          | git diff      |
+
 
 | Antecedent   | Consequent     | Right-aligned |
 | :---         |     :---:      |          ---: |
