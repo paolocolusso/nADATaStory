@@ -10,11 +10,11 @@ We take a closer look at the proportions of the phenomenon with respect to the I
 ### Followers and Following
 Although figures on this side has to be taken with caution, since we cannot rule out altogether the possibility of there being bots and scams, the data show that proportions are quite impressive in terms of number of following,
 
-![](../img/following.png){: .align-center}{:height="150%" width="150%"}
+![](../img/following.png){: .align-center}{:height="250%" width="250%"}
 
 and followers:
 
-![](../img/follower.png){: .align-center}{:height="150%" width="150%"}
+![](../img/follower.png){: .align-center}{:height="250%" width="250%"}
 
 The following histogram (in log scale, as the previous ones) sums up the daily activity of trolls, in terms of the average number of tweets produced every day:
 
