@@ -26,11 +26,12 @@ navbar-links:
   The Setting: "beforeStarting"
   The Dynamics: "explore3"
   The Words: "theTweets"
-  Resources:
-    - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
-    - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.github.com/"
-  Author's home: "http://deanattali.com"
+  The Characters: "theChars"
+  #Resources:
+  #  - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
+  #  - Learn markdown: "http://www.markdowntutorial.com/"
+  #  - GitHub Pages: "https://pages.github.com/"
+  #Author's home: "http://deanattali.com"
   About us: "aboutme"
 
 # Image to show in the navigation bar - image must be a square (width = height)
