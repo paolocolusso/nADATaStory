@@ -24,7 +24,7 @@ description: ADA 2018 - Final Project
 # List of links in the navigation bar
 navbar-links:
   The setting: "beforeStarting"
-  Exploration: "explore"
+  Exploration: "explore2"
   The Tweets: "theTweets"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
