@@ -13,3 +13,7 @@ Although figures on this side has to be taken with caution, since we cannot rule
 and followers:
 
 ![](../img/follower.png){: .align-center}
+
+The following histogram sums up the daily activity of trolls, in terms of the average number of tweets produced every day:
+
+![](../img/activity.png){: .align-center}
