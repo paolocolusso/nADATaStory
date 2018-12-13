@@ -44,5 +44,5 @@ We highlighted:
 
 3. the build-up to the general elections.
 
-### Where do trolls go?
-We want to see if trolls specifically mentions 
+### Trolls' favourite places
+We want to see if there are places trolls mention more often in their tweets. We thus check references to every Italian municipality and region and 
