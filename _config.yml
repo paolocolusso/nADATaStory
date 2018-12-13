@@ -25,6 +25,7 @@ description: ADA 2018 - Final Project
 navbar-links:
   The setting: "beforeStarting"
   Exploration: "explore"
+  The Tweets: "theTweets"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
