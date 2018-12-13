@@ -22,6 +22,11 @@ It looks like trolls try to cover all the spectrum of sizes and activity levels:
 
 ### Time Analysis
 
+![](../img/time1.png){: .align-center}
+
+![](../img/time2.png){: .align-center}
+
+
 ### Content analysis
 We now delve into the content of tweet themselves, starting by a general overview. Which words are occurring the most? 
 
