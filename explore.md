@@ -25,4 +25,6 @@ We now delve into the content of tweet themselves, starting by a general overvie
 
 ![](../img/word1.png){: .align-center}
 
+Italian readers will notice that most of the words are names of newspapers and news agencies, with a peculiarity: it is hard to spot the the presence of radical papers. *la Repubblica* is the best selling Italian paper, followed by *Corriere della Sera* and *La Stampa*, while *ANSA* is the main press agency. Although *la Repubblica* is rather centre-left wing, all of these are generally perceived to be as moderate.
+
 ![](../img/word2.png){: .align-center}
