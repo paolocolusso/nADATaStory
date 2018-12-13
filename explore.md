@@ -37,3 +37,6 @@ If we look at national politics, all the themes which have determined the result
 
 Shifting to international politics, Trump is the big name. More generally, the words mainly refer to the weaknesses of the European Union: terror attacks, Brexit, the common currency... The lexicon seem to be dominated by negative words, which conveys the idea of the current situation in Europe being doomed. But there is more to it. Except for Germany and France, the countries mentioned have one common feature: they are ruled by authoritarian leaders: Turkey (Erdogan), Assad (Syria), Putin (Russia). Of course, a similar idea holds for Trump, which is typically perceived as strong and tough, especially in terms of migration. Also, notice that Syria is the one of the main interests of the Russian foreign politics.
 
+Laslty, words as **fear**, **terror**, **risk**, **terrorism**, **massacre**, **attack** clearly want to stress a situation of instability.
+
+It is hardly surprising that Russia would try to provide a negative picture of our institutions: lack of faith in traditional parties and institutions has already lead towards increased success of populist parties all across Europe, making it weaker. All of this creates sympathy towards more authoritative figures, like Putin and Trump, who present themselves as strong in defending their country's interests. 
