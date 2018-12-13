@@ -21,6 +21,8 @@ The following histogram (in log scale, as the previous ones) sums up the daily a
 It looks like trolls try to cover all the spectrum of sizes and activity levels: always under the aforementioned *caveat*, some of them are extremely prolific, some others have a low key profile. We will see this tendency in virtually all of the topics we consider: the idea is probably the fact that trolls try to engage as wide a public as possible.
 
 ### Content analysis
-We now delve into the content of tweet themselves, starting by a general overview. Which words are occurring the most? ![](../img/word1.png){: .align-center}
+We now delve into the content of tweet themselves, starting by a general overview. Which words are occurring the most? 
+
+![](../img/word1.png){: .align-center}
 
 ![](../img/word2.png){: .align-center}
