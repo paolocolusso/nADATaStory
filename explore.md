@@ -20,11 +20,18 @@ The following histogram (in log scale, as the previous ones) sums up the daily a
 
 It looks like trolls try to cover all the spectrum of sizes and activity levels: always under the aforementioned *caveat*, some of them are extremely prolific, some others have a low key profile. We will see this tendency in virtually all of the topics we consider: the idea is probably the fact that trolls try to engage as wide a public as possible.
 
+### Time Analysis
+
 ### Content analysis
 We now delve into the content of tweet themselves, starting by a general overview. Which words are occurring the most? 
 
 ![](../img/word1.png){: .align-center}
 
-Italian readers will notice that most of the words are names of newspapers and news agencies, with a peculiarity: it is hard to spot the the presence of radical papers. *la Repubblica* is the best selling Italian paper, followed by *Corriere della Sera* and *La Stampa*, while *ANSA* is the main press agency. Although *la Repubblica* is rather centre-left wing, all of these are generally perceived to be as moderate.
+Italian readers will notice that most of the words are names of newspapers and news agencies, with a peculiarity: it is hard to spot the the presence of radical papers. *la Repubblica* is the best selling Italian paper, followed by *Corriere della Sera* and *La Stampa*, while *ANSA* is the main press agency. Although *la Repubblica* is rather centre-left wing, all of these are generally perceived to be as moderate and reliable by the majority of the population: this is probably also the impression trolls want to give.
+
+If we now exclude papers and press agencies from the cloud, a clearer picture emerges: politics is clearly on top when it comes to favourite topics for trolls. 
+If we look at national politics, all the themes which have determined the results of the most recent elections are there: *migrants*, *Europe*, *security*. The name of the main parties is also present, together with some leaders' name. Although *Renzi* and *Democartic Party*, *PD*, are of larger size than their political opponents, other parties are more represented in terms of political priorities: *migrants* and *security* are the main target of the *League*, for example. Taking a further look at the output of the word cloud, one will notice that words associated to the *PD* crisis feature highly (corruption scandals, internal fight for the leadership of the party...).
+
+
 
 ![](../img/word2.png){: .align-center}
