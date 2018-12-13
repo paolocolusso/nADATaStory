@@ -11,6 +11,7 @@ Italy is nowadays seen as one of the weakest economies of the Eurozone, with hig
 
 ![](../img/govts.png){: .align-center}
 
+
 ### What's happening in politics?
 
 The political equilibrium has shifted towards less traditional parties following the economic crisis and the fall of Silvio Berlusconi, who has been the most stable political figure since 1994. The main parties at the moment are:
