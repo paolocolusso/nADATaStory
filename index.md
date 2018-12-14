@@ -40,9 +40,9 @@ We claim that it is possible to witness a strategy implemented by IRA to highlig
 
 This website is structured in four sections:
 1. In [The setting](beforeStarting), we show some recent facts and figures about Italy, where the story takes place.
-2. [The Dynamics](/explore3) analyses the behaviour of trolls,
-3. [The Words](/theTweets), where we take a closer look at what the characters of our story say,
-4. [The characters](/theChars), where the protagonists introduce themselves.
+2. [The Words](/theTweets), where we take a closer look at what the characters of our story say,
+3. [The characters](/theChars), where the protagonists introduce themselves,
+4. [The Dynamics](/explore3) analyses the behaviour of trolls,
 
 If you want further information about this project, do not hesitate to visit the [about page](/pages/about)
 
