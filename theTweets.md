@@ -4,17 +4,17 @@ title: The Words
 subtitle: Looking into the 140 characters.
 ---
 
-If, as we claim, Russian trolls aim at spurring political instability in Europe, it is natural that they should focus on disruptive events showing the weaknesses of our society. Also, they would be likely to touch upon themes that are key in the political agenda of populist parties (*Leaugue* and *Five-Star Movement*), making Europe more frail and threatening the stability of international relationships. They would naturally encourage political debate, creating divisiveness in the country.
+If, as we claim, Russian trolls aim at spurring political instability in Europe, it is natural that they should focus on disruptive events showing the weaknesses of our society. Also, they would probably touch upon themes that are likely to cause controversy and that are key in the political agenda of populist parties: they would naturally encourage political debate, creating divisiveness in the country.
 
-What we see is indeed that they are more active during periods coinciding with peaks of terrorism in Europe, migratory crisis and political events.
+What we see is in the following analysis is indeed that they are more active during periods coinciding with peaks of terrorism in Europe, migratory crisis and political events: in other words, troll never cease to provoke controversy by referring to delicate issues (migration), both at national level and at international level. 
 
 
 ### Content analysis
-We now delve into the content of tweet themselves, starting by a general overview. Which words are occurring the most? 
+We finally delve into the content of tweet themselves, starting by a general overview. Which words are occurring the most? 
 
 ![](../img/word1.png){: .align-center}
 
-Italian readers will notice that most of the words are names of **newspapers** and news agencies, with a peculiarity: it is hard to spot the the presence of radical papers. *la Repubblica* is the best selling Italian paper, followed by *Corriere della Sera* and *La Stampa*, while *ANSA* is the main press agency. Although *la Repubblica* is rather centre-left wing, all of these are generally perceived to be as moderate and reliable by the majority of the population: this is probably also the impression trolls want to give.
+Italian readers will notice that most of the words are names of **newspapers** and press agencies, with a peculiarity: it is hard to spot the the presence of radical papers. *la Repubblica* is the best selling Italian paper, followed by *Corriere della Sera* and *La Stampa*, while *ANSA* is the main press agency. Although *la Repubblica* is rather centre-left wing, all of these are generally perceived to be as **moderate** and **reliable sources** by the majority of the population: this is probably also the impression trolls want to give.
 
 If we now exclude papers and press agencies from the cloud, a clearer picture emerges: politics is clearly on top when it comes to favourite topics for trolls. 
 
@@ -22,11 +22,11 @@ If we now exclude papers and press agencies from the cloud, a clearer picture em
 
 If we look at **national politics**, all the themes which have determined the results of the most recent elections are there: *migrants*, *Europe*, *security*. The name of the main parties is also present, together with some leaders' name. Although *Renzi* and *Democartic Party*, *PD*, are of larger size than their political opponents, other parties are more represented in terms of political priorities: *migrants* and *security* are the main target of the *League*, for example. Taking a further look at the output of the word cloud, one will notice that words associated to the *PD* crisis feature highly (corruption scandals, internal fight for the leadership of the party...).
 
-Shifting to **international politics**, Trump is the big name. More generally, the words mainly refer to the weaknesses of the European Union: **terror attacks**, **Brexit**, the **common currency**... The lexicon seem to be dominated by negative words, which conveys the idea of the current situation in Europe being doomed. But there is more to it. Except for Germany and France, the countries mentioned have one common feature: they are ruled by authoritarian leaders: **Turkey** (Erdogan), **Syria** (Assad), **Russia** (Putin). Of course, a similar idea holds for **Trump**, which is typically perceived as strong and tough, especially in terms of migration. Also, notice that Syria is the one of the main interests of the Russian foreign politics.
+Shifting to **international politics**, Trump is the big name. More generally, the words mainly refer to the weaknesses of the European Union: **terror attacks**, **Brexit**, the **common currency**... The lexicon seem to be dominated by negative words, which conveys the idea of the current situation in Europe being doomed. But there is more to it. Except for Germany and France, the countries mentioned have one common feature: they are ruled by authoritarian leaders: **Turkey** (Erdogan), **Syria** (Assad), **Russia** (Putin). A similar idea holds for **Trump**, which is typically perceived as strong and tough, especially in terms of migration. Also, notice that Syria is the one of the main interests of the Russian foreign politics.
 
 Laslty, words as **fear**, **terror**, **risk**, **terrorism**, **massacre**, **attack** clearly want to stress a situation of instability.
 
-It is hardly surprising that Russia would try to provide a negative picture of our institutions: lack of faith in traditional parties and institutions has already lead towards increased success of populist parties all across Europe, making it weaker. All of this creates sympathy towards more authoritative figures, like Putin and Trump, who present themselves as strong in defending their country's interests.
+It is hardly surprising that Russia would try to provide a negative picture of our institutions: lack of faith in traditional parties and institutions has already lead towards increased success of populist parties all across Europe, making it weaker. Stressing social problems and political crisis usually leads countries to look for easier answers, like nationalism: this creates sympathy towards more authoritative figures, like Putin and Trump, who present themselves as strong in defending their country's interests.
 
 ### Words often appearing together
 We now use data mining, and specifically association rules, to confirm some intuitions.
@@ -65,9 +65,9 @@ As we were noticing, trolls never cease to stress instability: Stockholm, for in
 
 ### Speaking about politics
 
-The debate mainly revolves around politics: who is the most debated politician in troll tweets?
+As we saw, the debate proposed by trolls mainly revolves around politics: who is the most discussed politician in troll tweets?
 
-We separate the analysis for mentions of politicians br prolific trolls, the ones who publish more tweets, and the whole trolls' population. 
+In counting the number of tweets where politicians and parties are mentioned, we separate the analysis for mentions by prolific trolls, the ones who publish more tweets, and the whole trolls' population, to see if trolls specifically concentrate the activity of frequent users to highlight particular ideas.
 
 
 ![](../img/poli_ments.png){: .align-center}
@@ -76,6 +76,10 @@ We repeat the same question for political parties.
 
 
 ![](../img/parties_ments.png){: .align-center}
+
+Although it might seem that the Democrats are being favoured, it must be noticed that:
++ during the period considered the government coalition was lead by *PD*, so that it is natural that they should be more present in the discussion and 
++ a mention *per se* is not necessarily positive, as the tweet might be critical.
 
 What is the general sentiment of these tweets if we consider politicians separately?
 
