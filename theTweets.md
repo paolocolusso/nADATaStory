@@ -34,7 +34,9 @@ We can now turn to machine learning to spot groups of tweets by means of cluster
 Among the most represented terms in the clusters are:
 
 + **Cluster 1**: italy, roma, renzi, pd, napoli, macron, europa, milano, alitalia, blog, ue, migrants, ...
+
 + **Cluster 2**: rt, adnkronos, repubblica, **elena07617349**, corriere, leggoit, agenzia_ansa, lastampa, ilpost, ...
+
 + **Cluster 3**: trump, usa, corea, nord, siria, repubblica, **wall**, pyongyang, threat, test, russia, war, china, attack, missiles, nuclear, obama
 
 Machine learning groups together national and European issues on one side and big international challenges on the other. The Syrian and Korean issues seem to have a key role in defining the cluster, but American politics comes in with Obama, Trump and (in all likelihood) the wall with Mexico. The remaining cluster probably points to general news reports, related to local facts or episodes.
