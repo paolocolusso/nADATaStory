@@ -11,7 +11,7 @@ Italy is nowadays seen as one of the weakest economies of the Eurozone, with hig
 
 ![](../img/govts.png){: .align-center}
 
-The next plot is an indicator of the economical situation of the Country, drawing a comparison of government gross debt in percent of GDP for some countries of the Eurozone.
+The next plot is an indicator of the economical situation of the Country, drawing a comparison of government gross debt in percent of GDP for some countries of the Eurozone (source: IMF).
 
 ![](../img/debt.png){: .align-center}
 
