@@ -26,11 +26,11 @@ The political equilibrium has recently shifted towards less traditional parties 
 
 3. The **Five-Star Movement** (*M5S*) is a populist party, which aims at tackling social inequalities and fighting political privileges. Founder of the party was the comedian Beppe Grillo, in the picture below. ![](../img/grillo.png){: .align-center}
 
-This is how the Country responded in the 2018 general elections: the map shows well the crisis of the left parties and the triumph of the M5S, which was also the main party in most of the regions.
+This is how the Country responded in the 2018 general elections, which lead to a colaition government led by the M5S and the League. The map shows well the crisis of the left parties and the triumph of the M5S, which was also the main party in most of the regions.
 
 <iframe src="https://paolocolusso.github.io/elections.html" width="100%" height="400px"></iframe>
 
 ### Where does Russia come in?
 Both the League and the M5S hold eurosceptic positions, blaming the crisis on the common currency, the big financial institutions and the little flexibility available within the agreements of the European Union.
 
-As many political commentators have stressed, a government formed by the M5S and the League is a threat to the stability of the Eurozone, and this is the reason why Russia, whose political ambitions are in conflict with those of the EU, might have all the interests to support it. We will see, however, that trolls do not have a clear preference for a single party, and it is not hard to find tweets for or against each of them.
+As many political commentators have stressed, a government formed by the M5S and the League is a threat to the stability of the Eurozone, and this is the reason why Russia, whose political ambitions are in conflict with those of the EU, might have all the interests to support it. We will see, however, that trolls do not have a clear preference for a single party, and it is not hard to find tweets for or against each of them. Trolls, we will show, would rather put forward controversial issues, and let the tension mount.
