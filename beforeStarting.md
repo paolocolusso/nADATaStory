@@ -26,6 +26,8 @@ The political equilibrium has shifted towards less traditional parties following
 
 3. The **Five-Star Movement** (M5S) is a populist party, which aims at tackling social inequalities and fighting political privileges. Founder of the party was the comedian Beppe Grillo, in the picture below. ![](../img/grillo.png){: .align-center}
 
+The local results for the 2018 general elecions are summed up in the following map.
+
 <iframe src="https://paolocolusso.github.io/elections.html" width="100%" height="400px"></iframe>
 
 ### Where does Russia come in?
