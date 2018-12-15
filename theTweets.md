@@ -77,3 +77,18 @@ We repeat the same question for political parties.
 
 ![](../img/parties_ments.png){: .align-center}
 
+What is the general sentiment of these tweets if we consider politicians separately?
+
+|              | Negative       | Neutral       | Positive      | Compound      |
+| :---         |     :---:      |     :---:     |     :---:     |     :---:     |
+| Renzi        | 0.12           | 0.75          | 0.13          | 0.06          |
+| Salvini      | 0.12           | 0.75          | 0.13          | 0.09          |
+| Grillo       | 0.13           | 0.75          | 0.12          | 0.04          |
+
+
+|              | Negative       | Neutral       | Positive      | Compound      |
+| :---         |     :---:      |     :---:     |     :---:     |     :---:     |
+| PD           | 0.12           | 0.75          | 0.13          | 0.1           |
+| Lega         | 0.12           | 0.75          | 0.13          | 0.1           |
+| M5S          | 0.13           | 0.75          | 0.11          | -0.02         |
+
