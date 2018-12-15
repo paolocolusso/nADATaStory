@@ -11,6 +11,10 @@ Italy is nowadays seen as one of the weakest economies of the Eurozone, with hig
 
 ![](../img/govts.png){: .align-center}
 
+The next plot is an indicator of the economical situation of the Country, drawing a comparison of government gross debt in percent of GDP for some countries of the Eurozone.
+
+![](../img/debt.png){: .align-center}
+
 
 ### What's happening in politics?
 
@@ -21,6 +25,8 @@ The political equilibrium has shifted towards less traditional parties following
 2. The **League**. Formerly known as the Northern League, a party supporting the independence of Northern Italy, the right-wing League set itself more national ambitions. It is a populist party, and currently the main party in the country, as well as the member of the coalition government together with M5S. Its key points are migration and the challenge of European rigidities in terms of budget limitations. Its leader, Matteo Salvini (in the picture below), is also deputy Prime Minister. ![](../img/salvini.png){: .align-center}
 
 3. The **Five-Star Movement** (M5S) is a populist party, which aims at tackling social inequalities and fighting political privileges. Founder of the party was the comedian Beppe Grillo, in the picture below. ![](../img/grillo.png){: .align-center}
+
+<iframe src="https://paolocolusso.github.io/elections.html" width="100%" height="400px"></iframe>
 
 ### Where does Russia come in?
 Both the League and the M5S hold eurosceptic positions, blaming the crisis on the common currency, the big financial institutions and the little flexibility available within the agreements of the European Union.
