@@ -4,9 +4,10 @@ title: About us
 subtitle: A story of Italy, Canada and China
 ---
 
-Two of the authors are (obviously!) Italian. The third one is a Chinese who studied in Canada before.
+Two of the authors are (obviously!) Italian. The third one is of Chinese origins, but studying in Canada.
 
++ Violaine 
 
-### my history
++ Valerio
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
++ Paolo is a student in applied mathematics at Politecnico di Torino and of economics at Collegio Carlo Alberto.
