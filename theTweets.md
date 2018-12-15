@@ -78,8 +78,10 @@ We repeat the same question for political parties.
 ![](../img/parties_ments.png){: .align-center}
 
 Although it might seem that the Democrats are being favoured, it must be noticed that:
-+ during the period considered the government coalition was lead by *PD*, so that it is natural that they should be more present in the discussion and 
++ during the period considered the government coalition was lead by *PD*, so that it is natural that they should be more present in the discussion, 
 + a mention *per se* is not necessarily positive, as the tweet might be critical.
+
+### Sentiment Analysis
 
 What is the general sentiment of these tweets if we consider politicians separately?
 
@@ -100,6 +102,11 @@ In terms of political parties the result is instead the following.
 | M5S          | 0.13           | 0.75          | 0.11          | -0.02         |
 
 
-The plot confirms that there is no striking difference between the sentiment for tweets related to different parties, although the compound sentiment for *M5S* is slightly more negative. This might be explained by the aggressive tones used by members of this party: the clearest example of this fact is the *V day*, which stands for *fuck off* day in Italian, a public demonstration held by Beppe Grillo in 2007 against corrupted politicians. 
+The plot shows that there is no striking difference between the sentiment for tweets related to different parties, although the compound sentiment for *M5S* is slightly more negative. This might be explained by the aggressive tones used by members of this party: the clearest example of this fact is the *V day*, which stands for *fuck off* day in Italian, a public demonstration held by Beppe Grillo in 2007 against corrupted politicians. 
+
+
+## Some conclusions
+
+Although trolls sometimes talk about football and music (take a careful look at the wordcloud and see if you can spot words related to this), their main interests lie elsewhere. The general tendency seem to be to engage as wide a public as possible and to foster strong political opinions, in all directions. While the content analysis seems to penalised the Democrats a bit, the sentiments show a homogeneous treatment of all the political actors. 
 
 ![](../img/sents.png){: .align-center}
