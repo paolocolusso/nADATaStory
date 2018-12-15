@@ -95,3 +95,7 @@ In terms of political parties the result is instead the following.
 | Lega         | 0.12           | 0.75          | 0.13          | 0.1           |
 | M5S          | 0.13           | 0.75          | 0.11          | -0.02         |
 
+
+The plot confirms that there is no striking difference between the sentiment for tweets related to different parties, although the compound sentiment for *M5S* is slightly more negative. This might be explained by the aggressive tones used by members of this party: the clearest example of this fact is the *V day*, which stands for *fuck off* day in Italian, a public demonstration held by Beppe Grillo in 2007 against corrupted politicians. 
+
+![](../img/sents.png){: .align-center}
