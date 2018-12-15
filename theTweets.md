@@ -86,6 +86,9 @@ What is the general sentiment of these tweets if we consider politicians separat
 | Grillo       | 0.13           | 0.75          | 0.12          | 0.04          |
 
 
+In terms of political parties the result is instead the following.
+
+
 |              | Negative       | Neutral       | Positive      | Compound      |
 | :---         |     :---:      |     :---:     |     :---:     |     :---:     |
 | PD           | 0.12           | 0.75          | 0.13          | 0.1           |
