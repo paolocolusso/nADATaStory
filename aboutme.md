@@ -4,7 +4,7 @@ title: About us
 subtitle: A story of Italy, Canada and China
 ---
 
-Two of the authors are (obviously!) Italian. The third one is...
+Two of the authors are (obviously!) Italian. The third one is a Chinese who studied in Canada before.
 
 
 ### my history
