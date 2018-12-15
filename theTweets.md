@@ -62,11 +62,13 @@ As we were noticing, trolls never cease to stress instability: Stockholm, for in
 | deaths       | injured        | 0.201258      |
 
 
+
 ### Speaking about politics
 
 The debate mainly revolves around politics: who is the most debated politician in troll tweets?
 
-We separate the analysis for mentions of politicians br prolific trolls, the oes who publish more tweets, and the whole trolls' population. 
+We separate the analysis for mentions of politicians br prolific trolls, the ones who publish more tweets, and the whole trolls' population. 
+
 
 ![](../img/poli_ments.png){: .align-center}
 
