@@ -1,15 +1,15 @@
----
-layout: page
-title: The Words
-subtitle: Looking into the 140 characters.
----
-
 slider:
   text_color: white
   shadow_color: black
   slides: 
     - image: /img/t1.png
       slide_html:
+
+---
+layout: page
+title: The Words
+subtitle: Looking into the 140 characters.
+---
 
 If, as we claim, Russian trolls aim at spurring political instability in Europe, it is natural that they should focus on disruptive events showing the weaknesses of our society. Also, they would probably touch upon themes that are likely to cause controversy and that are key in the political agenda of populist parties: they would naturally encourage political debate, creating divisiveness in the country.
 
