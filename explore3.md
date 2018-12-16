@@ -5,7 +5,9 @@ subtitle: A top view of the Italian troll tweets.
 ---
 
 
-We take a closer look at the proportions of the phenomenon with respect to the Italian part of the IRA tweets.
+In this section we provide some details of the dynamics of the phenomenon: how it evolved over time, the activity of the trolls and the places more frequently mentioned by trolls. We conclude, in line with the previous sections, that trolls are qell aware of what causes divisiveness in the Country and act accordingly. Time patterns reflect crucial episodes, and references to places matches specific local issues.
+
+We start by taking a closer look at the proportions of the phenomenon of the Italian IRA trolls.
 
 ### Followers and Following
 Although figures on this side have to be taken with caution, since we cannot rule out altogether the possibility of there being bots and scams, the data show that proportions are quite impressive in terms of number of following, 
@@ -48,7 +50,7 @@ We highlight in the time series:
 
 + the build-up to the general **elections** which took place at the beginning of 2018.
 
-Despite not being the exclusive topics, trolls do not miss the opportunity to mention these occurrences, which tend to devide the country in opposing factions.
+Despite not being the exclusive topics, trolls do not miss the opportunity to mention these occurrences, which tend to devide the country in opposing factions. Check the notebook for tweet examples.
 
 ### Trolls' favourite places
 We want to see if there are places trolls mention more often in their tweets. We thus check references to every Italian municipality and region and count the number of mentions grouping by region. In the following map results are normalized by the size of the regional polpulation. 
