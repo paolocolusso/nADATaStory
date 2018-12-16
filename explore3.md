@@ -5,7 +5,7 @@ subtitle: A top view of the Italian troll tweets.
 ---
 
 
-In this section we provide some details of the dynamics of the phenomenon: how it evolved over time, the activity of the trolls and the places more frequently mentioned by trolls. We conclude, in line with the previous sections, that trolls are qell aware of what causes divisiveness in the Country and act accordingly. Time patterns reflect crucial episodes, and references to places matches specific local issues.
+In this section we provide some details of the dynamics of the phenomenon: how it evolved over time, the activity of the trolls and the places more frequently mentioned by trolls. We conclude, in line with the previous sections, that trolls are qell aware of what causes divisiveness in the country and act accordingly. Time patterns reflect crucial episodes, and references to places match specific local issues.
 
 We start by taking a closer look at the proportions of the phenomenon of the Italian IRA trolls.
 
