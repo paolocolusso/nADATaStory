@@ -14,6 +14,9 @@ layout: base
         </div>
 	        {% include fb-comment.html %}
 	    {% endif %}
+	    {% if page.slider %}
+  		{% include slider.html height="50" unit="%" transition="slide" duration="7" %}
+	    {% endif %}
     </div>
   </div>
 </div>
