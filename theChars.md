@@ -11,6 +11,8 @@ We present breafly the trolls which represent the protagonists of our story and 
 
 With her 2918 tweets, she can be considered as our most active character on social media. The subjects being highlighted are innumerable. Some of them are related to social problems (such as pollution), indignations (arms sales) and opposition to political actions. Furthermore, 1LORENAFAVA1 attacks both *left* and *right* parties, stressing social problems: this is coherent with *Five-Star Movement* ideas. Indeed, from the geographical analysis we will present in the next section we can see that 1LORENAFAVA1 wrote tweets mentions South Italy regions, where the *Five-Star Movement* coalition won the elections.
 
+![](../img/LorenaFava1.png){: .align-center}
+
 ### GUIDI VITTORE
 ![](../img/GUIDI1.PNG){: .align-center}
 
