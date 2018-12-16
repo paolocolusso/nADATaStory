@@ -8,8 +8,8 @@ subtitle: A story of Italy, Canada and China
 Two of the authors are (obviously!) Italian. The third one is of Chinese origins, but studying in Canada.
 
 + Valerio is a master student in applied mathematics at Politecnico di Torino.
-[![](../img/github-logo.png)](https://github.com/valerio-volpe)
-[![](../img/linkedin.png)](https://www.linkedin.com/in/valerio-volpe/)
+[![](../img/github-logo.png)](https://github.com/valerio-volpe){:.thumbnail.bordered}
+[![](../img/linkedin.png)](https://www.linkedin.com/in/valerio-volpe/){:.thumbnail.bordered}
 
 + Paolo is a student in applied mathematics at Politecnico di Torino and of economics at Collegio Carlo Alberto.
 <!-- [![](../img/github-logo.png)](https://github.com/paolocolusso){:.thumbnail.bordered} -->
