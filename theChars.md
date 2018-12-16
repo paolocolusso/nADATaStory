@@ -16,7 +16,7 @@ With her 2918 tweets, she can be considered as our most active character on soci
 ### GUIDI VITTORE
 ![](../img/GUIDI1.PNG){: .align-center}
 
-With 1656 tweets, VITTOREGUIDI is another important character. His tweets are less than Lorena’s ones, but spread over a longer period. Again we can find social and political problems as main themes. He attacks both *left* party and *Five-Star Movement*, stressing the big problem related to migration: this is coherent with *League* ideas. Indeed, from the previous geographical analysis we have seen that VITTOREGUIDI wrote tweets mention North and Central Italy regions, where the *League* (right) party won the elections.
+With 1656 tweets, VITTOREGUIDI is another important character. His tweets are less than Lorena’s ones, but spread over a longer period. Again we can find social and political problems as main themes. He attacks both *left* party and *Five-Star Movement*, stressing the big problem related to migration: this is coherent with *League* ideas. Indeed, from the geographical analysis we will see that VITTOREGUIDI wrote tweets mention North and Central Italy regions, where the *League* (right) party won the elections.
 
 ## GATTISILGATTI
 ![](../img/GUIDI1.PNG){: .align-center}
