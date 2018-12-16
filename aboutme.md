@@ -13,6 +13,6 @@ Two of the authors are (obviously!) Italian. The third one is of Chinese origins
 
 + Hanhui(Violaine) is a student in Computer Science major from University of Waterloo. 
 <!--[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)-->
-![github-logo.png](https://github.com/menghanhui)
-![linkedin.png](https://www.linkedin.com/in/skylarmeng/)
+![](../img/github-logo.png)(https://github.com/menghanhui)
+![](../img/linkedin.png)(https://www.linkedin.com/in/skylarmeng/)
 
