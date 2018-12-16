@@ -50,6 +50,11 @@ linkedin:
   name: "LinkedIn"
   baseURL: "https://linkedin.com/in/"
   icon: "fa-linkedin"
+  
+linkedin2:
+  name: "LinkedIn"
+  baseURL: "https://linkedin.com/in/"
+  icon: "fa-linkedin"
 
 xing:
   name: "Xing"
