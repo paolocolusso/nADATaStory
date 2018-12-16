@@ -56,3 +56,9 @@ We want to see if there are places trolls mention more often in their tweets. We
 By clicking on the map some examples of tweets are provided. **Lorena Fava** talks about terrorism and social problems in Southern Italy, while **Vittore Guidi** is critical about the Five-Star administration in Rome. Selected tweets for northern Italy refelct issues with migrations: tensions at the border with Austria and migrants handling in Ventimiglia, Liguria.
 
 <iframe src="https://paolocolusso.github.io/withTweets.html" width="100%" height="400px"></iframe>
+
+### Retweet Analysis
+We also analyzed the retweet counts of each tweet. As shown from the histogram below, the most popular tweet is with 731 times' retweet, most tweets have <100 times' retweet.
+
+<iframe src="https://paolocolusso.github.io/Retweets_Count.html" width="100%" height="400px"></iframe>
+
