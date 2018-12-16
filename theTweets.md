@@ -119,8 +119,10 @@ In terms of political parties the result is instead the following.
 The plot shows that there is no striking difference between the sentiment for tweets related to different parties, although the compound sentiment for *M5S* is slightly more negative. This might be explained by the aggressive tones used by members of this party: the clearest example of this fact is the *V day*, which stands for *fuck off* day in Italian, a public demonstration held by Beppe Grillo in 2007 against corrupted politicians. 
 
 
+![](../img/sents.png){: .align-center}
+
+
 ## Some conclusions
 
 Although trolls sometimes talk about football and music (take a careful look at the wordcloud and see if you can spot words related to this), their main interests lie elsewhere. The general tendency seem to be to engage as wide a public as possible and to foster strong political opinions, in all directions. As any Italian will know, there is nothing which causes as much controversy as do immigrants or Europe... so trolls are somehow playing it safe. In terms of politicians, while the content analysis seems to penalise the Democrats a bit, the sentiments show a homogeneous treatment of all the political actors (with the slight exception of the compound sentiment for the FIve-Star Movement).
 
-![](../img/sents.png){: .align-center}
