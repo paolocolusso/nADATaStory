@@ -9,12 +9,12 @@ Two of the authors are (obviously!) Italian. The third one is of Chinese origins
 + Valerio is a master student in applied mathematics at Politecnico di Torino.
 [![](../img/github-logo.png)](https://github.com/valerio-volpe)
 [![](../img/linkedin.png)](https://www.linkedin.com/in/valerio-volpe/)
-![](../img/Valerio.jpeg)
+![](../img/Valerio.jpeg){:height="240" width="240"}
 
 + Paolo is a student in applied mathematics at Politecnico di Torino and of economics at Collegio Carlo Alberto.
 <!-- [![](../img/github-logo.png)](https://github.com/paolocolusso){:.thumbnail.bordered} -->
 [![](../img/linkedin.png)](https://www.linkedin.com/in/paolo-colusso-a7451614a/)
-![](../img/Paolo.jpg)
+![](../img/Paolo.jpg){:height="240" width="240"}
 
 + Hanhui (Violaine) is a student in Bachelor of Computer Science major from University of Waterloo. 
 <!--[![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)-->
@@ -22,5 +22,5 @@ Two of the authors are (obviously!) Italian. The third one is of Chinese origins
 [![](../img/linkedin.png)](https://www.linkedin.com/in/skylarmeng/)
 <!--![](../img/github-logo.png)
 ![](../img/linkedin.png)-->
-![](../img/Violaine.jpg)
+![](../img/Violaine.jpg){:height="240" width="240"}
 
