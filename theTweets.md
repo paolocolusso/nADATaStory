@@ -121,12 +121,18 @@ In terms of political parties the result is instead the following.
 
 The plot shows that there is no striking difference between the sentiment for tweets related to different parties, although the compound sentiment for *M5S* is slightly more negative. This might be explained by the aggressive tones used by members of this party: the clearest example of this fact is the *V day*, which stands for *fuck off* day in Italian, a public demonstration held by Beppe Grillo in 2007 against corrupted politicians. 
 
+Let's take a closer look at some of the trolls' tweets. 
+
+Starting from the Five-Star Movement, we immediately see that there are mixed feelings: tweets range from paying homage to the cofounder of M5S to the criticism of a spiteful attitude. A link between the crisis of PD and the success of the M5S is also proposed.  
+
 
 ![](../img/sents.png){: .align-center}
 
 ![](../img/t1.png){: .align-center}
 
 ![](../img/t2.png){: .align-center}
+
+Now
 
 ![](../img/t3.png){: .align-center}
 
