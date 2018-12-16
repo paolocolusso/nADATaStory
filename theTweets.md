@@ -144,9 +144,9 @@ The plot shows that there is no striking difference between the sentiment for tw
 
 ![](../img/t10.png){: .align-center}
 
-![](../img/t11.png){: .align-center}
-
 ![](../img/t12.png){: .align-center}
+
+![](../img/t13.png){: .align-center}
 
 ## Some conclusions
 
