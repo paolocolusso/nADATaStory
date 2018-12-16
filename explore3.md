@@ -30,7 +30,7 @@ Is there a peak of activity of trolls during significant moments of the past yea
 
 To get a visual intuition of this fact we plot the historical evolution of the number of tweets per day.
 
-The activity of "Italian" trolls dates back to 2014 and is clearly not even across the months which follow.
+The activity of "Italian" trolls dates back to 2011 and is clearly not even across the months which follow.
 
 ![](../img/time1.png){: .align-center}
 
