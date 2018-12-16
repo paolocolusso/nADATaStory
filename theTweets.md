@@ -42,6 +42,9 @@ Among the most represented terms in the clusters are:
 Machine learning groups together national and European issues on one side and big international challenges on the other. The Syrian and Korean issues seem to have a key role in defining the cluster, but American politics comes in with Obama, Trump and (in all likelihood) the wall with Mexico. The remaining cluster probably points to general news reports, related to local facts or episodes.
 
 
+![](../img/cluster.png){: .align-center}
+
+
 ### Words often appearing together
 We now use data mining, and specifically association rules, to confirm some intuitions.
 
