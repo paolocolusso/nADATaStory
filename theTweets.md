@@ -4,6 +4,13 @@ title: The Words
 subtitle: Looking into the 140 characters.
 ---
 
+slider:
+  text_color: white
+  shadow_color: black
+  slides: 
+    - image: /img/t1.png
+      slide_html:
+
 If, as we claim, Russian trolls aim at spurring political instability in Europe, it is natural that they should focus on disruptive events showing the weaknesses of our society. Also, they would probably touch upon themes that are likely to cause controversy and that are key in the political agenda of populist parties: they would naturally encourage political debate, creating divisiveness in the country.
 
 What we see is in the following analysis is indeed that they are more active during periods coinciding with peaks of terrorism in Europe, migratory crisis and political events: in other words, troll never cease to provoke controversy by referring to delicate issues (migration), both at national level and at international level. 
