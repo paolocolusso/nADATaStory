@@ -124,6 +124,29 @@ The plot shows that there is no striking difference between the sentiment for tw
 
 ![](../img/sents.png){: .align-center}
 
+![](../img/t1.png){: .align-center}
+
+![](../img/t2.png){: .align-center}
+
+![](../img/t3.png){: .align-center}
+
+![](../img/t4.png){: .align-center}
+
+![](../img/t5.png){: .align-center}
+
+![](../img/t6.png){: .align-center}
+
+![](../img/t7.png){: .align-center}
+
+![](../img/t8.png){: .align-center}
+
+![](../img/t9.png){: .align-center}
+
+![](../img/t10.png){: .align-center}
+
+![](../img/t11.png){: .align-center}
+
+![](../img/t12.png){: .align-center}
 
 ## Some conclusions
 
