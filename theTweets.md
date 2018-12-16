@@ -1,10 +1,3 @@
-slider:
-  text_color: white
-  shadow_color: black
-  slides: 
-    - image: /img/t1.png
-      slide_html:
-
 ---
 layout: page
 title: The Words
