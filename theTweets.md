@@ -124,6 +124,8 @@ The plot shows that there is no striking difference between the sentiment for tw
 
 ![](../img/sents.png){: .align-center}
 
+### The tweets!
+
 Let's take a closer look at some of the trolls' tweets. 
 
 Starting from the Five-Star Movement, we immediately see that there are mixed feelings: tweets range from paying homage to the cofounder of M5S to the criticism of a spiteful attitude. A link between the crisis of PD and the success of the M5S is also proposed.  
@@ -133,24 +135,22 @@ Starting from the Five-Star Movement, we immediately see that there are mixed fe
 ![](../img/t2.png){: .align-center}
 ![](../img/t3.png){: .align-center}
 
-Talking about PD, however, the situation changes: it becomes harder to find tweets in support of the party, as mentions to it are only due to its crisis, to the internal fights, or are plain critics.
+Talking about PD, however, the situation changes: it becomes harder to find tweets in support of the party, as mentions to it are only due to its crisis, to the internal fights, or are plain critics. Some users talk about a poisonous environment, some claim the party celebrates fascism and some others are critical towards the choices for the budget.
 
 ![](../img/t4.png){: .align-center}
 ![](../img/t5.png){: .align-center}
-
 ![](../img/t6.png){: .align-center}
-
 ![](../img/t7.png){: .align-center}
-
 ![](../img/t8.png){: .align-center}
-
 ![](../img/t9.png){: .align-center}
 
+Like for M5S, tweets on the League are also ambiguous, but unlike what happens for PD, some users share some typical messages of the League, such as the EU and the mishandling of migrants.
+
 ![](../img/t10.png){: .align-center}
-
 ![](../img/t12.png){: .align-center}
-
 ![](../img/t13.png){: .align-center}
+
+The last tweet, however, hides some irony for the fact that Salvini spent one day taking selfies and enjoying Sicilian's delicatessens. 
 
 ## Some conclusions
 
