@@ -12,6 +12,6 @@ Two of the authors are (obviously!) Italian. The third one is of Chinese origins
 + Paolo is a student in applied mathematics at Politecnico di Torino and of economics at Collegio Carlo Alberto.
 
 + Hanhui(Violaine) is a student in Computer Science major from University of Waterloo. 
-+ ![../img/github-logo.png](https://github.com/menghanhui)
-+ ![../img/linkedin.png](https://www.linkedin.com/in/skylarmeng/)
++ [![../img/github-logo.png](https://github.com/menghanhui)
++ [![../img/linkedin.png](https://www.linkedin.com/in/skylarmeng/)
 
