@@ -12,7 +12,7 @@ We now present the most represntative trolls of our story, the protagonists.
 With her 2918 tweets, she can be considered as our most active character on social media. The subjects she deals with are innumerable. Some of them are related to contemporary problems (such as pollution), scandals (arms sales) and opposition to political actions. Furthermore, Lorena attacks both *left* and *right* parties, stressing social problems: this is coherent with the *Five-Star Movement* spirit. Indeed, from the geographical analysis we will present in the next section we can see that this character wrote tweets mentioning regions of Southern Italy, where the *Five-Star Movement* coalition won by a landslide.
 
 ![](../img/lorenafava_final.png){: .align-center}
-# The tweets
+### The tweets
 Let’s take a closer look at some of the Lorena’s tweets.
 
 ### GUIDI VITTORE
