@@ -46,7 +46,7 @@ This website is structured in four sections:
 
 A small final section ([About Us](/aboutme)) is dedicated to our group's presentation.
 
-
+Please visit the GitHub [repository](https://github.com/menghanhui/ADA-Project) and the notebook for further details on the methodologies, some more results and the credits to picture displayed in this story.
 
 
 
