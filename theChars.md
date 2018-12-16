@@ -9,7 +9,7 @@ We now present the most represntative trolls of our story, the protagonists.
 ### FAVA LORENA
 ![](../img/FAVA1.PNG){: .align-center}
 
-With her 2918 tweets, she can be considered as our most active character on social media. The subjects she deals with are innumerable. Some of them are related to contemporary problems (such as pollution), scandals (arms sales) and opposition to political actions. Furthermore, Lorena attacks both *left* and *right* parties, stressing social problems: this is coherent with the *Five-Star Movement* spirit. However, we can find also some tweets against Grillo who is the founder of that party, but since he decided to not be standing in the elections, maybe the aim of this troll is to have a party independent from its founder Grillo (in one of her tweets she approved DiMaio, the party leader). Indeed, from the geographical analysis we will present in the next section we can see that this character wrote tweets mentioning regions of Southern Italy, where the *Five-Star Movement* coalition won by a landslide.
+With her 2918 tweets, she can be considered as our most active character on social media. The subjects she deals with are innumerable, ranging from contemporary problems (such as pollution) to scandals (arms sales) and opposition to political actions.  Most of the politicians sooner or later become the target of her critics, although she seems to be quite in agreement with DiMaio's policies, the leader of the M5S (see the tweet about basic income below). Indeed, from the geographical analysis we will present in the next section, we can see that this character wrote tweets mentioning regions of Southern Italy, where the *Five-Star Movement* coalition won by a landslide.
 
 ### The tweets
 
@@ -35,7 +35,7 @@ Let’s take a closer look at some of the Guidi’s tweets.
 ## GATTISILGATTI
 ![](../img/GATTI.PNG){: .align-center}
 
-GATTISILGATTI is definitely the most relevant character in terms of variety of topics. He does not seem to support a particular party, but his tweets tackle most of the contemporary issue. His tweets range from corruption to terrorism, from politics to social problems.
+GATTISILGATTI is definitely the most relevant character in terms of variety of topics. He does not seem to support a particular party, but his tweets tackle most of the contemporary issue. His tweets range from corruption to terrorism, from politics to social problems, and in the selected ones he pronounces himself against the *grillini* (members of M5S) and Salvini.
 
 ### The tweets
 
