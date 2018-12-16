@@ -62,3 +62,8 @@ We also analyzed the retweet counts of each tweet. As shown from the histogram b
 
 <iframe src="https://paolocolusso.github.io/Retweets_Count.html" width="100%" height="400px"></iframe>
 
+We also find out most common words in those popular tweets. As the graph shows below, the most frequent words in those tweets are: news, bellissimo(which means 'lovely' in English), police, china, blacklivesmatter, investigate, punish, criminals, etc.
+
+It seems that "news" are the most popular to be retweeted. "Police" and "China" are also sensitive keywords in the tweets. Also, "blacklivesmatter" is a popular event which people pay attention to.
+
+![](../img/retweet_Words.png){: .align-center}
