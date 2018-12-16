@@ -15,7 +15,7 @@ With her 2918 tweets, she can be considered as our most active character on soci
 <div id="jssor_1" style="position:relative;top:0px;left:0px;width:980px;height:380px;overflow:hidden;">
     <div data-u="slides" style="position:absolute;top:0px;left:0px;width:980px;height:380px;overflow:hidden;">
         <div><img data-u="image" src="../img/lorenafava1.png" /></div>
-        <div><img data-u="image" src="../img/lorenafava2.png" /></div>
+        <div><img data-u="image" src="../img/LorenaFava2.png" /></div>
     </div>
 </div>
 <script>
