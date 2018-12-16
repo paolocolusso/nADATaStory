@@ -10,4 +10,5 @@ Two of the authors are (obviously!) Italian. The third one is of Chinese origins
 
 + Paolo is a student in applied mathematics at Politecnico di Torino and of economics at Collegio Carlo Alberto.
 
-+ Violaine is a student in Computer Science major from University of Waterloo.
++ Hanhui(Violaine) is a student in Computer Science major from University of Waterloo. 
+  github:menghanhui
